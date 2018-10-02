@@ -11,7 +11,7 @@ license = "MIT/Apache-2.0"
 exclude = [".gitignore", ".travis.yml"]
 
 [badges]
-travis-ci = { repository = "ilianaw/rust-cpython-json", branch = "master" }
+travis-ci = { repository = "jzuber4/rust-cpython-json", branch = "master" }
 
 [dependencies]
 quick-error = "1.2"
